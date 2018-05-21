@@ -1,4 +1,4 @@
-# gADL-OD
+# gADL-ODF
 get All Direct Links (of a) OneDrive Folder
 
 Uses the simplest usage it could possibly have:
