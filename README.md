@@ -1,5 +1,5 @@
-# gadlod
-get all direct links of a OneDrive Folder
+# gADL-OD
+get All Direct Links (of a) OneDrive Folder
 
 Uses the simplest usage it could possibly have:
 
